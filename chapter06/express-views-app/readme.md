@@ -1,0 +1,1 @@
+Express.js is compatible with many templating engines; refer to the Express.js documentation for the full list, available at https://expressjs.com/en/resources/template-engines.html.
